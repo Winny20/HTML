@@ -1,0 +1,27 @@
+body
+{   
+    background-color:rgb(148, 222, 245);
+}
+.table
+{
+    background-color:lavender;
+    color: purple;
+    font-style: italic;
+    
+}
+.row1
+{
+    background-color: rgb(235, 205, 151);
+    font-style: normal;
+    color: rgb(117, 24, 117);
+   
+}
+h1
+{
+    color:darkblue;
+}
+h3
+{
+    color: rgb(97, 41, 41);
+    font-style: oblique;
+}
